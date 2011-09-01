@@ -1,0 +1,11 @@
+= closest_fibonacci
+
+Monkey-patches the Integer class to add a method that returns the largest
+Fibonacci number *smaller* than a given integer. Returns nil if there is no
+such Fibonacci number.
+
+== Copyright
+
+Copyright (c) 2011 Chris Oei. See LICENSE.txt for
+further details.
+
